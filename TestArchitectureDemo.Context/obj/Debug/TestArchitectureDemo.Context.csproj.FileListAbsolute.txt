@@ -1,0 +1,16 @@
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitectureDemo.Context.dll.config
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitectureDemo.Context.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitectureDemo.Context.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\EntityFramework.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitecture.Domain.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitecture.DomainConfiguration.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitecture.DomainConfiguration.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitecture.DomainConfiguration.dll.config
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\TestArchitecture.Domain.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\EntityFramework.xml
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\obj\Debug\TestArchitectureDemo.Context.csprojResolveAssemblyReference.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\obj\Debug\TestArchitectureDemo.Context.csproj.CoreCompileInputs.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\obj\Debug\TestArchitectureDemo.Context.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitectureDemo.Context\obj\Debug\TestArchitectureDemo.Context.pdb

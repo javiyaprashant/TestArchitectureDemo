@@ -1,0 +1,16 @@
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitecture.Repository.dll.config
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitecture.Repository.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitecture.Repository.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\EntityFramework.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitecture.Domain.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitectureDemo.Context.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitecture.Domain.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitectureDemo.Context.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\TestArchitectureDemo.Context.dll.config
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\EntityFramework.xml
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\obj\Debug\TestArchitecture.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\obj\Debug\TestArchitecture.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\obj\Debug\TestArchitecture.Repository.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Repository\obj\Debug\TestArchitecture.Repository.pdb

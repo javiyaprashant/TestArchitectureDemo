@@ -1,0 +1,10 @@
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\TestArchitecture.Infrastructure.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\TestArchitecture.Infrastructure.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\TestArchitecture.Domain.DTO.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\TestArchitecture.Domain.DTO.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\obj\Debug\TestArchitecture.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\obj\Debug\TestArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\obj\Debug\TestArchitecture.Infrastructure.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Infrastructure\obj\Debug\TestArchitecture.Infrastructure.pdb

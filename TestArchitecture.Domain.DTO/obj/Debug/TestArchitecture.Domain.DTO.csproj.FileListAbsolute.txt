@@ -1,0 +1,5 @@
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Domain.DTO\bin\Debug\TestArchitecture.Domain.DTO.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Domain.DTO\bin\Debug\TestArchitecture.Domain.DTO.pdb
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Domain.DTO\obj\Debug\TestArchitecture.Domain.DTO.csproj.CoreCompileInputs.cache
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Domain.DTO\obj\Debug\TestArchitecture.Domain.DTO.dll
+C:\Projects\poc_bkup\poc_bkup\TestArchitectureDemo\TestArchitecture.Domain.DTO\obj\Debug\TestArchitecture.Domain.DTO.pdb
